@@ -9,8 +9,7 @@
 3.) a portion of the image should be grabbed as a filter. Forrier would probably agree that noise is sort of like a repeating function that can be expressed mathematically. I figure snippets like this might be used as a filter.
 
 **Problems:**
-  randomly grabbed filters like this could contain highly specific data that would make it completely useless as a filter.    
-  Maybe manually select a filter from a large selection of images?
+  randomly grabbed filters like this could contain highly specific data that would make it completely useless as a filter. Maybe manually select a filter from a large selection of images?
   
 4.) guassian blur again.
 
