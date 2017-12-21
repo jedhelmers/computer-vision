@@ -2,11 +2,11 @@
 ## Finding objects within high-noise images.
 
 ### _Road Map_
-1.) an image or stream of images is acquired and read in as a function.
+* an image or stream of images is acquired and read in as a function.
 
-2.) a light gaussian blur should be applied over the image.
+* a light gaussian blur should be applied over the image.
 
-3.) a portion of the image should be grabbed as a filter. Forrier would probably agree that noise is sort of like a repeating function that can be expressed mathematically. I figure snippets like this might be used as a filter.
+* a portion of the image should be grabbed as a filter. Forrier would probably agree that noise is sort of like a repeating function that can be expressed mathematically. I figure snippets like this might be used as a filter.
 
 **Problems:**
   randomly grabbed filters like this could contain highly specific data that would make it completely useless as a filter. Maybe manually select a filter from a large selection of images?
